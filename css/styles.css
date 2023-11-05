@@ -71,8 +71,12 @@ header {
     margin: 50px 0;
  }
 
+ .two img {
+    height: 100%;
+    width: 80%;
+ }
+
  .two .features div {
     margin-top: 40px;
     width: 65%;
-    
  }
